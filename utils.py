@@ -9,6 +9,7 @@ from collections import OrderedDict
 import itertools
 from itertools import chain
 
+
 import pandas as pd
 import PIL
 from PIL import Image
